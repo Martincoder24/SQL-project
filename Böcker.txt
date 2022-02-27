@@ -1,0 +1,121 @@
+Böcker till min bookstore:
+
+1.Harry Potter och de vises sten
+
+ISBN13: 9789129723946
+Titel: Harry Potter och de vises sten
+Språk: Svenska
+Pris: 229
+Utgivningsdatum: 2019-09-16
+Genre: Fantasy
+Författare: J.K.Rowling
+
+2.Harry Potter och hemligheternas kammare
+
+ISBN13: 9789129723960
+Titel: Harry Potter och hemligheternas kammare
+Språk: Svenska
+Pris: 180
+Utgivningsdatum: 2019-11-08
+Genre: Fantasy
+Författare: J.K.Rowling
+
+3.Harry Potter och fången från azkaban
+
+ISBN13: 9789129723953
+Titel: Harry Potter och fången från azkaban
+Språk: Svenska
+Pris: 169
+Utgivningsdatum: 2019-09-20
+Genre: Fantasy
+Författare: J.K.Rowling
+
+4.Sagan om ringen
+
+ISBN13: 9789172632189
+Titel: Sagan om ringen
+Språk: Svenska
+Pris: 159
+Utgivningsdatum: 1954-29-07
+Genre: Fantasy
+Författare: J.R.R Tolkien
+
+5.Sagan om de två tornen
+
+ISBN13: 9789113013640
+Titel: Sagan om de två tornen
+Språk: Svenska
+Pris: 150
+Utgivningsdatum: 1989-04-01
+Genre: Fantasy
+Författare: J.R.R Tolkien
+
+6.Sagan om konungens återkomst
+
+ISBN13: 9789113044958
+Titel: Sagan om konungens återkomst
+Språk: Svenska
+Pris: 69
+Utgivningsdatum: 2012-10-12
+Genre: Fantasy
+Författare: J.R.R Tolkien
+
+7. Isprinsessan
+
+ISBN13: 9789175037431
+Titel: Isprinsessan
+Språk: Svenska
+Pris: 99
+Utgivningsdatum: 2017-04-07
+Genre: Deckare
+Författare: Camilla Läckberg
+
+8. Predikanten
+
+ISBN13: 9789175037493
+Titel: Predikanten
+Språk: Svenska
+Pris: 99
+Utgivningsdatum: 2017-04-07
+Genre: Deckare
+Författare: Camilla Läckberg
+
+9. State of Terror
+
+ISBN13: 9781529079708
+Titel: State of terror
+Språk: Engelska
+Pris: 229
+Utgivningsdatum: 2021-10-12
+Genre: Deckare
+Författare: Hillary Clinton och Louise Penny
+
+10. The Nature of Middle-earth
+
+ISBN13: 9780008387921
+Titel: The Nature of Middle-earth
+Språk: Engelska
+Pris: 309 
+Utgivningsdatum: 2021-09-02
+Genre: Fantasy
+Författare: J.R.R.Tolkien, Carl F Hostetter
+
+11. Kameleonten
+
+ISBN13: 9789113108025
+Titel: Kameleonten
+Språk: Svenska
+Pris: 95
+Utgivningsdatum: 2021-09-15
+Genre: Deckare
+Författare: Jonas Moström
+
+12. Skytten
+
+ISBN13: 9789179033101
+Titel: Skytten
+Språk: Svenska
+Pris:  95
+Utgivningsdatum: 2020-10-13
+Genre: Deckare
+Författare: Jonas Moström
